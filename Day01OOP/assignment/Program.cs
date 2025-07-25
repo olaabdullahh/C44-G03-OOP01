@@ -68,10 +68,7 @@ namespace assignment
             //Console.WriteLine("Removing permessions");
             //Console.WriteLine(userPerm);
 
-            //if (userPerm.HasFlag(Permessions.Read))
-            //    Console.WriteLine("Has Read");
-            //else
-            //    Console.WriteLine("No Read");
+            
 
             #endregion
 
